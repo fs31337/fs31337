@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://dev.to/fs31337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fs31337" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/franco salina" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="franco salina" height="30" width="40" /></a>
-<a href="https://www.behance.net/francosalina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="francosalina" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fsalina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="fsalina" height="30" width="40" /></a>
+<a href="https://www.behance.net/francosalina" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="francosalina" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fsalina" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="fsalina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
