@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco Salina</h1>
-<h3 align="center">A Frontend Developer from Argentina</h3>
+<h3 align="center">A Full Stack Web Developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Full Stack Dev** at Henry and **UX/UI development** at Coderhouse.
 
