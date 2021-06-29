@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Full Stack Dev** at Henry and **UX/UI development** at Coderhouse.
 
-- 📫 How to reach me **francodamiansalina{arroba}gmail.com**
+- 📫 How to reach me: 
+- **https://www.linkedin.com/in/francosalina/**
+- **francodamiansalina@gmail.com**- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
