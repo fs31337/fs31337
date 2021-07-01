@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Salina</h1>
-<h3 align="center">A Full Stack Web Developer from Argentina</h3>
+<h3 align="center">A Front End Web Developer</h3>
 
-- 🌱 I’m currently learning **Full Stack Dev** at Henry and **UX/UI development** at Coderhouse.
+- 🌱 I’m currently learning **UX/UI Development** at Coderhouse.
 
 - 📫 How to reach me: 
 - **https://www.linkedin.com/in/francosalina/**
@@ -33,6 +33,3 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-
-
