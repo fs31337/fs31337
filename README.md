@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franco Salina</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Front-End Developer</h3>
 
-- 🌱 I’m currently learning **UX/UI Development** at Coderhouse.
 
 - 📫 How to reach me: 
 - **https://www.linkedin.com/in/francosalina/**
