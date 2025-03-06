@@ -51,14 +51,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-### 🚀 Proyectos Destacados  
-🔹 **[SiloReal](#)** - React Native Develompent, Unit Testing 
-🔹 **[Textile ERP in React&Laravel](#)** - Stock, production, and sales management for the textile industry.
-🔹 **[WannaParty](#)** - React Native Develpment
-
-📌 *Consulta mis repositorios para más proyectos!*  
-
 ---
 
 ### 🎯 Actualmente aprendiendo...  
